@@ -1,0 +1,34 @@
+.band-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.band-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #514d76;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+.band-card h1 {
+    color: #fff;
+}
+
+.band-content {
+    display: flex;
+    list-style: none;
+}
+
+.band-item {
+    margin-top: -30px;
+    color: #d7d7d7;
+    padding: 5px 15px;
+}
+
+.band-split {
+    color: #ff5151;
+}

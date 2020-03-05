@@ -1,0 +1,13 @@
+.like-container {
+    display: flex;
+    align-items: center;
+}
+
+.like-container button {
+    font-size: 20px;
+    margin: 0px 15px;
+    height: max-content;
+    border-radius: 8px;
+    border: none;
+    background-color: white;
+}
